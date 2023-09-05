@@ -1,7 +1,6 @@
--  
-  <div class="custom-link">
+ <div class="custom-link">
   [current project](https://criss-frontend.vercel.app/signin.html)
-</div>
+ </div>
 - 🔭 I’m currently working on a police force database...
  
 - 🌱 I’m currently learning python typscript and flutter(dart programming language) ...
