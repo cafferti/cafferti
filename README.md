@@ -1,6 +1,4 @@
-### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a police force database...
 - 🌱 I’m currently learning python typscript and flutter(dart programming language) ...
